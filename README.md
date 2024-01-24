@@ -5,6 +5,8 @@
 <img align="right" alt="coding" width="400" src="https://github.com/md-kawser-alam/md-kawser-alam/blob/main/animation.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-kawser-alam&label=Profile%20views&color=0e75b6&style=flat" alt="md-kawser-alam" /> </p>
 
+- 🌱 I’m currently learning **MERN Stack - MongoDB, Express, React, Node**
+
 - 📫 How to reach me: 💌 **mdkawseralam.jr@gmail.com**
 
 # 💞 Connect with me :
@@ -24,25 +26,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,figma,git,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,figma,git,c,cpp,js" />
   </a>
 </p>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js" />
-  </a>
-</p>
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb" />
-  </a>
-</p>
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,nextjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
   </a>
 </p>
 
