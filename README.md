@@ -9,15 +9,15 @@
 
 # 💞 Connect with me :
 <p align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/mdkawseralam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mdkawseralam" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/kawseralam.23oct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kawseralam.23oct" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mdkawseralam/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mdkawseralam" height="30" width="40" /></a>
+<a href="https://www.facebook.com/kawseralam.23oct" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kawseralam.23oct" height="30" width="40" /></a>
 </p>
 <br>
  <p align="center">
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/brain-error" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/brain-error" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/brain_error" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/brain_error" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/brain-error/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/brain-error/" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/https://profiles.topcoder.com/brain_error" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://profiles.topcoder.com/brain_error" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Brain-Error" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/brain-error" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/brain_error" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/brain_error" height="30" width="40" /></a>
+<a href="https://leetcode.com/Brain-Error/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/brain-error/" height="30" width="40" /></a>
+<a href="https://profiles.topcoder.com/brain_error" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://profiles.topcoder.com/brain_error" height="30" width="40" /></a>
 </p>
 
 # 💻 Skills and Technologies :
